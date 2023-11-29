@@ -22,4 +22,4 @@ Sou apaixonado pela área e estou em constante busca por desafios e aprendizados
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ericmmk&theme=transparent&bg_color=45,CC214C,F72A5D&border_color=fff&show_icons=true&icon_color=F5D76E&title_color=F5D76E&text_color=FFF&hide_title=true&hide=stars&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ericmameluk&theme=transparent&bg_color=45,CC214C,F72A5D&border_color=fff&show_icons=true&icon_color=F5D76E&title_color=F5D76E&text_color=FFF&hide_title=true&hide=stars&count_private=true&include_all_commits=true)
