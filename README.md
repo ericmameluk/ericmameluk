@@ -6,7 +6,7 @@ Sou apaixonado pela área e estou em constante busca por desafios e aprendizados
 
 ## Conecte-se comigo 🤝
 
-[![LinkedIn](https://skills.thijs.gg/icons?i=linkedin)](https://www.linkedin.com/in/eric-mameluk/) [![Instagram](https://skills.thijs.gg/icons?i=instagram)](https://www.instagram.com/ericmameluk/)
+[![LinkedIn](https://skills.thijs.gg/icons?i=linkedin)](https://www.linkedin.com/in/ericmameluk/) [![Instagram](https://skills.thijs.gg/icons?i=instagram)](https://www.instagram.com/ericmameluk/)
 
 ## Tecnologias 👨‍💻
 
