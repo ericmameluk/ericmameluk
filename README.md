@@ -1,8 +1,6 @@
 # Olá, Eric aqui! 👋
 
-Sou um desenvolvedor Front-end Jr com interesse em expandir ainda mais minhas habilidades e tornar um desenvolvedor Full Stack!
-
-Sou apaixonado pela área e estou em constante busca por desafios e aprendizados novos que contribuam para minha evolução.
+Desenvolvedor Front-end com foco em webdesign e desenvolvimento web.
 
 ## Conecte-se comigo 🤝
 
@@ -10,15 +8,15 @@ Sou apaixonado pela área e estou em constante busca por desafios e aprendizados
 
 ## Tecnologias 👨‍💻
 
-![Tech](https://skills.thijs.gg/icons?i=html,css,js,git,github,cloudflare,wordpress,md&perline=10)
+![Tech](https://skills.thijs.gg/icons?i=react,nextjs,ts,js,html,css,git,github,cloudflare,wordpress,regex,md&perline=10)
 
 ## Ferramentas 🛠
 
-![Tech](https://skills.thijs.gg/icons?i=figma,vscode,idea&perline=10)
+![Tech](https://skills.thijs.gg/icons?i=ps,figma,vscode&perline=10)
 
 ## Próximos passos 📚
 
-![Tech](https://skills.thijs.gg/icons?i=jquery,bootstrap,regex,mysql,nodejs,typescript,react,sass,tailwind,php,laravel,java,go,next,aws,gcp&perline=10)
+![Tech](https://skills.thijs.gg/icons?i=nodejs,sass,tailwind,php,laravel,java,go,aws,gcp&perline=10)
 
 ## GitHub Stats
 
