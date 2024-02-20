@@ -8,7 +8,7 @@ Desenvolvedor Front-end com foco em webdesign e desenvolvimento web.
 
 ## Tecnologias 👨‍💻
 
-![Tech](https://skills.thijs.gg/icons?i=react,nextjs,ts,js,html,css,git,github,cloudflare,wordpress,regex,md&perline=10)
+![Tech](https://skills.thijs.gg/icons?i=vite,react,ts,js,html,css,git,github,cloudflare,wordpress,regex,md&perline=10)
 
 ## Ferramentas 🛠
 
@@ -16,7 +16,7 @@ Desenvolvedor Front-end com foco em webdesign e desenvolvimento web.
 
 ## Próximos passos 📚
 
-![Tech](https://skills.thijs.gg/icons?i=nodejs,sass,tailwind,php,laravel,java,go,aws,gcp&perline=10)
+![Tech](https://skills.thijs.gg/icons?i=nodejs,nextjs,sass,tailwind,php,laravel,java,go,aws,gcp&perline=10)
 
 ## GitHub Stats
 
